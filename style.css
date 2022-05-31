@@ -31,3 +31,8 @@ div {
 .rightside{
     background-color:dodgerblue;
 }
+
+footer{
+    border-width: 1px;
+    border-style: solid;
+}
